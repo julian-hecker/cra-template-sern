@@ -12,7 +12,7 @@
             "nodemon": "^2.0.4"
         },
         "scripts": {
-            "heroku-start": "node server/bin/www",
+            "start": "node server/bin/www",
             "dev": "concurrently \"nodemon server/bin/www\" \"npm run start-react\"",
             "start-react": "react-scripts start"
         },
