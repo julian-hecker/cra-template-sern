@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-sern",
+  "version": "1.0.0",
+  "description": "Sequelize, Express, React, and Node template for Create React App",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julian-hecker/cra-template-sern.git"
+  },
+  "keywords": [
+    "Sequelize",
+    "Express",
+    "React",
+    "Node",
+    "create-react-app",
+    "template"
+  ],
+  "author": "Julian Hecker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julian-hecker/cra-template-sern/issues"
+  },
+  "homepage": "https://github.com/julian-hecker/cra-template-sern#readme"
+}
