@@ -9,4 +9,4 @@ npx create-react-app my-app --template sern
 ```
 
 ## Create your own template
-Follow the guide at [https://create-react-app.dev/docs/custom-templates/] to create your own `create-react-app` template
+Follow the guide at the [Create React App Documentation](https://create-react-app.dev/docs/custom-templates/) to create your own `create-react-app` template
