@@ -1,6 +1,6 @@
 {
   "name": "cra-template-sern",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "template.json",
   "description": "Sequelize, Express, React, and Node template for Create React App",
   "scripts": {

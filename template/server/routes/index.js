@@ -1,12 +1,8 @@
 const router = require('express').Router();
-const db = require('../controllers');
 
-router.get('/', (req, res) => {
-    db.getUsers(req, res);
-});
+router.use('/auth', require('./auth'));
+router.use('/user', require('./user'));
 
-router.get('/', (req, res) => {
-    db.getUsers(req, res);
-});
+// https://blog.logrocket.com/the-essential-guide-for-designing-a-production-ready-developer-friendly-restful-api/
 
 module.exports = router;
